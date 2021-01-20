@@ -1,0 +1,17 @@
+<Root>
+    <File Name="scene32" Game="SW97">
+        <Scene Name="scene32"/>
+    </File>
+    <File Name="scene32_map00" Game="SW97">
+        <Room Name="scene32_map00"/>
+    </File>
+    <File Name="scene32_map01" Game="SW97">
+        <Room Name="scene32_map01"/>
+    </File>
+    <File Name="scene32_map02" Game="SW97">
+        <Room Name="scene32_map02"/>
+    </File>
+    <File Name="scene32_map03" Game="SW97">
+        <Room Name="scene32_map03"/>
+    </File>
+</Root>

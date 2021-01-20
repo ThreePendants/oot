@@ -1,0 +1,59 @@
+<Root>
+    <File Name="scene28" Game="SW97">
+        <Scene Name="scene28"/>
+    </File>
+    <File Name="scene28_map00" Game="SW97">
+        <Room Name="scene28_map00"/>
+    </File>
+    <File Name="scene28_map01" Game="SW97">
+        <Room Name="scene28_map01"/>
+    </File>
+    <File Name="scene28_map02" Game="SW97">
+        <Room Name="scene28_map02"/>
+    </File>
+    <File Name="scene28_map03" Game="SW97">
+        <Room Name="scene28_map03"/>
+    </File>
+    <File Name="scene28_map04" Game="SW97">
+        <Room Name="scene28_map04"/>
+    </File>
+    <File Name="scene28_map05" Game="SW97">
+        <Room Name="scene28_map05"/>
+    </File>
+    <File Name="scene28_map06" Game="SW97">
+        <Room Name="scene28_map06"/>
+    </File>
+    <File Name="scene28_map07" Game="SW97">
+        <Room Name="scene28_map07"/>
+    </File>
+    <File Name="scene28_map08" Game="SW97">
+        <Room Name="scene28_map08"/>
+    </File>
+    <File Name="scene28_map09" Game="SW97">
+        <Room Name="scene28_map09"/>
+    </File>
+    <File Name="scene28_map10" Game="SW97">
+        <Room Name="scene28_map10"/>
+    </File>
+    <File Name="scene28_map11" Game="SW97">
+        <Room Name="scene28_map11"/>
+    </File>
+    <File Name="scene28_map12" Game="SW97">
+        <Room Name="scene28_map12"/>
+    </File>
+    <File Name="scene28_map13" Game="SW97">
+        <Room Name="scene28_map13"/>
+    </File>
+    <File Name="scene28_map14" Game="SW97">
+        <Room Name="scene28_map14"/>
+    </File>
+    <File Name="scene28_map15" Game="SW97">
+        <Room Name="scene28_map15"/>
+    </File>
+    <File Name="scene28_map16" Game="SW97">
+        <Room Name="scene28_map16"/>
+    </File>
+    <File Name="scene28_map17" Game="SW97">
+        <Room Name="scene28_map17"/>
+    </File>
+</Root>

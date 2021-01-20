@@ -1,0 +1,35 @@
+<Root>
+    <File Name="scene00" Game="SW97">
+        <Scene Name="scene00"/>
+    </File>
+    <File Name="scene00_map00" Game="SW97">
+        <Room Name="scene00_map00"/>
+    </File>
+    <File Name="scene00_map01" Game="SW97">
+        <Room Name="scene00_map01"/>
+    </File>
+    <File Name="scene00_map02" Game="SW97">
+        <Room Name="scene00_map02"/>
+    </File>
+    <File Name="scene00_map03" Game="SW97">
+        <Room Name="scene00_map03"/>
+    </File>
+    <File Name="scene00_map04" Game="SW97">
+        <Room Name="scene00_map04"/>
+    </File>
+    <File Name="scene00_map05" Game="SW97">
+        <Room Name="scene00_map05"/>
+    </File>
+    <File Name="scene00_map06" Game="SW97">
+        <Room Name="scene00_map06"/>
+    </File>
+    <File Name="scene00_map07" Game="SW97">
+        <Room Name="scene00_map07"/>
+    </File>
+    <File Name="scene00_map08" Game="SW97">
+        <Room Name="scene00_map08"/>
+    </File>
+    <File Name="scene00_map09" Game="SW97">
+        <Room Name="scene00_map09"/>
+    </File>
+</Root>

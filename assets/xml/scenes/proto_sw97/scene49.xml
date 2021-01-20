@@ -1,0 +1,8 @@
+<Root>
+    <File Name="scene49" Game="SW97">
+        <Scene Name="scene49"/>
+    </File>
+    <File Name="scene49_map00" Game="SW97">
+        <Room Name="scene49_map00"/>
+    </File>
+</Root>
